@@ -36,12 +36,12 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:800
 m_PlanesListY:24
-m_MetarListX:1000
-m_MetarListY:24
+m_MetarListX:946
+m_MetarListY:151
 m_VoiceListX:1200
 m_VoiceListY:24
-m_ControllerListX:1300
-m_ControllerListY:24
+m_ControllerListX:1229
+m_ControllerListY:68
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -56,3 +56,5 @@ m_ShowTsVccsMiniControl:1
 ScenarioEditorX:0
 ScenarioEditorY:0
 m_ShowSTARControllers:1
+MessageLinesNumber:4
+BackgroundGrphicsInThread:1
