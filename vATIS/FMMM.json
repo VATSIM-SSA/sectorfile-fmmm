@@ -1,6 +1,8 @@
 {
-	"Name": "FMMM Antananarivo FIR v2",
-	"Composites": [
+	"Name": "FMMM Antananarivo FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fmmm/refs/heads/main/vATIS/FMMM.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Dzaoudzi Pamandzi",
 			"Identifier": "FMCZ",
