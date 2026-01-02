@@ -20,17 +20,12 @@ Free Text:FMEE Ground Labels\7:freetext
 Free Text:FMEE Ground Labels\8:freetext
 Free Text:FMEE Ground Labels\9:freetext
 Free Text:FMEE Ground Labels\A:freetext
-Free Text:FMEE Ground Labels\A:freetext
-Free Text:FMEE Ground Labels\A:freetext
 Free Text:FMEE Ground Labels\B:freetext
 Free Text:FMEE Ground Labels\C:freetext
 Free Text:FMEE Ground Labels\Cargo:freetext
 Free Text:FMEE Ground Labels\Civil:freetext
 Free Text:FMEE Ground Labels\F:freetext
-Free Text:FMEE Ground Labels\F:freetext
-Free Text:FMEE Ground Labels\F:freetext
 Free Text:FMEE Ground Labels\F1:freetext
-Free Text:FMEE Ground Labels\G:freetext
 Free Text:FMEE Ground Labels\G:freetext
 Free Text:FMEE Ground Labels\General Aviation:freetext
 Free Text:FMEE Ground Labels\Helilagon:freetext
@@ -50,10 +45,9 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:334.00000
 TAGFAMILY:VATSSA TopSky
-WINDOWAREA:-20.899295:55.498447:-20.880705:55.534331
+WINDOWAREA:-20.899295:55.498301:-20.880705:55.534477
 PLUGIN:Ground Radar plugin:AirportElevation:66
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FMEE
-PLUGIN:TopSky plugin:HideMapData:
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:TopSky plugin:ShowMapData:FMEE
