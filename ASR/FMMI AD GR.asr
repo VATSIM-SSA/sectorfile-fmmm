@@ -1,6 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
 Free Text:FMMI Parkings\11:freetext
 Free Text:FMMI Parkings\1A:freetext
 Free Text:FMMI Parkings\2:freetext
